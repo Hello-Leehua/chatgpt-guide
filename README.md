@@ -9,10 +9,14 @@
 ![image](https://user-images.githubusercontent.com/124339105/226812772-e6fc7ef4-e0b0-4007-9223-8421f20f1eb5.png)
 
 复制下方代码导入进去
+hk
 ````
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInFpYW55YW4iLA0KICAiYWRkIjogInd3dy5pc3dhbi50ayIsDQogICJwb3J0IjogIjM4MTg4IiwNCiAgImlkIjogIjllYzkyYTJiLTE0YWItNGZkZi1hMmIzLTEwOTY2NTVlOGIwMyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 ````
-
+usa
+````
+vless://98114809-d274-4993-c14d-e179e7db0318@www.iswan.cf:19807?encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.iswan.cf&fp=chrome&type=tcp&headerType=none#bwg2023
+````
 点界面右上角的勾保存配置。界面回到主界面，点右下角的v2rayNG图标，启动程序。如果出现网络连接请求，点击确定：
 ![image](https://user-images.githubusercontent.com/124339105/226812882-01cd979c-c47b-40dc-b2a6-257e5e09d616.png)
 
